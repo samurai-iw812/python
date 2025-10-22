@@ -1,0 +1,10 @@
+#write to a file(overwrite the file)
+filehandle=open("/python/sec573/defense/fileoperations/test.txt","w")
+filehandle.write("this is a test file.\n")
+filehandle.write("write these \ntwo lines\n")
+filehandle.close()
+
+#append to a file(add to the end of the file)
+filehandle=open("/python/sec573/defense/fileoperations/test.txt","a")
+filehandle.write("this is appended line")
+filehandle.close()
