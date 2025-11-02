@@ -62,7 +62,10 @@ python/
 
 ## 📫 Connect
 - GitHub: [@samurai911cyber](https://github.com/samurai911cyber)
+<<<<<<< HEAD
 - X (formerly Twitter): [@mared_washwesh](https://x.com/mared_washwesh)
+=======
+>>>>>>> 4914f29 (Add professional README for Python & SEC573 journey)
 - 💬 Always open to collaborations or Python/Cyber discussions!
 
 ---
